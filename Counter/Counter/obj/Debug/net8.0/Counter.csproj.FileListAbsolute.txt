@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Code\C\Counter\Counter\bin\Debug\net8.0\Counter.exe
+C:\Users\Dell\Desktop\Code\C\Counter\Counter\bin\Debug\net8.0\Counter.deps.json
+C:\Users\Dell\Desktop\Code\C\Counter\Counter\bin\Debug\net8.0\Counter.runtimeconfig.json
+C:\Users\Dell\Desktop\Code\C\Counter\Counter\bin\Debug\net8.0\Counter.dll
+C:\Users\Dell\Desktop\Code\C\Counter\Counter\bin\Debug\net8.0\Counter.pdb
+C:\Users\Dell\Desktop\Code\C\Counter\Counter\obj\Debug\net8.0\Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Code\C\Counter\Counter\obj\Debug\net8.0\Counter.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Code\C\Counter\Counter\obj\Debug\net8.0\Counter.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Code\C\Counter\Counter\obj\Debug\net8.0\Counter.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Code\C\Counter\Counter\obj\Debug\net8.0\Counter.dll
+C:\Users\Dell\Desktop\Code\C\Counter\Counter\obj\Debug\net8.0\refint\Counter.dll
+C:\Users\Dell\Desktop\Code\C\Counter\Counter\obj\Debug\net8.0\Counter.pdb
+C:\Users\Dell\Desktop\Code\C\Counter\Counter\obj\Debug\net8.0\Counter.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Code\C\Counter\Counter\obj\Debug\net8.0\ref\Counter.dll

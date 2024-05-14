@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dell\\Desktop\\Code\\C\\Sade ve murekkeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA87045C-2013-475B-8C2A-5C1403BD2D59}|Sade ve murekkeb\\Sade ve murekkeb.csproj|c:\\users\\dell\\desktop\\code\\c\\sade ve murekkeb\\sade ve murekkeb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA87045C-2013-475B-8C2A-5C1403BD2D59}|Sade ve murekkeb\\Sade ve murekkeb.csproj|solutionrelative:sade ve murekkeb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Desktop\\Code\\C\\Sade ve murekkeb\\Sade ve murekkeb\\Program.cs",
+              "RelativeDocumentMoniker": "Sade ve murekkeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Desktop\\Code\\C\\Sade ve murekkeb\\Sade ve murekkeb\\Program.cs",
+              "RelativeToolTip": "Sade ve murekkeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:33:29.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

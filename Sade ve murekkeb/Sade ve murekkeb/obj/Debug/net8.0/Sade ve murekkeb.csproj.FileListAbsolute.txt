@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\Code\C\Sade ve murekkeb\Sade ve murekkeb\bin\Debug\net8.0\Sade ve murekkeb.exe
+C:\Users\Dell\Desktop\Code\C\Sade ve murekkeb\Sade ve murekkeb\bin\Debug\net8.0\Sade ve murekkeb.deps.json
+C:\Users\Dell\Desktop\Code\C\Sade ve murekkeb\Sade ve murekkeb\bin\Debug\net8.0\Sade ve murekkeb.runtimeconfig.json
+C:\Users\Dell\Desktop\Code\C\Sade ve murekkeb\Sade ve murekkeb\bin\Debug\net8.0\Sade ve murekkeb.dll
+C:\Users\Dell\Desktop\Code\C\Sade ve murekkeb\Sade ve murekkeb\bin\Debug\net8.0\Sade ve murekkeb.pdb
+C:\Users\Dell\Desktop\Code\C\Sade ve murekkeb\Sade ve murekkeb\obj\Debug\net8.0\Sade ve murekkeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\Code\C\Sade ve murekkeb\Sade ve murekkeb\obj\Debug\net8.0\Sade ve murekkeb.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\Code\C\Sade ve murekkeb\Sade ve murekkeb\obj\Debug\net8.0\Sade ve murekkeb.AssemblyInfo.cs
+C:\Users\Dell\Desktop\Code\C\Sade ve murekkeb\Sade ve murekkeb\obj\Debug\net8.0\Sade ve murekkeb.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Code\C\Sade ve murekkeb\Sade ve murekkeb\obj\Debug\net8.0\Sade ve murekkeb.dll
+C:\Users\Dell\Desktop\Code\C\Sade ve murekkeb\Sade ve murekkeb\obj\Debug\net8.0\refint\Sade ve murekkeb.dll
+C:\Users\Dell\Desktop\Code\C\Sade ve murekkeb\Sade ve murekkeb\obj\Debug\net8.0\Sade ve murekkeb.pdb
+C:\Users\Dell\Desktop\Code\C\Sade ve murekkeb\Sade ve murekkeb\obj\Debug\net8.0\Sade ve murekkeb.genruntimeconfig.cache
+C:\Users\Dell\Desktop\Code\C\Sade ve murekkeb\Sade ve murekkeb\obj\Debug\net8.0\ref\Sade ve murekkeb.dll
